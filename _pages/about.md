@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Mingjia😼 (●'◡'●)"
+title: "Hello there, I'm Mingjia😼"
 author_profile: true
 redirect_from: 
   - /about/
